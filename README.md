@@ -7,7 +7,7 @@ PySI_V0R3 is demand plan on supply chain. and "production allocation" or "shippi
 #To run this module
 
 Put "python PySI_mother_plant_Knapsack_80percent.py" in python.
-It will take for some minutes to makie "image.gif", that is animation of shipping LOTs allocation, for weekly shipping plan on mother plant.
+It will take for some minutes to make "image.gif", that is animation of shipping LOTs allocation, for weekly shipping plan on mother plant.
 To change demand_supply_ratio = 80%, 100%, 120% and so on, check in the python code "PySI_mother_plant_Knapsack_80percent.py" and change the parameter. 
 
 #python vesion
